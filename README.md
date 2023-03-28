@@ -5,7 +5,7 @@ openCV를 활용한 cartoonize.
 ## 원본
 ![image](https://user-images.githubusercontent.com/55969680/228326097-d21286da-1d82-4568-a76c-5bba371217de.png)
 
-## chargpt
+## chat gpt
 ![image](https://user-images.githubusercontent.com/55969680/228326159-64a70430-ae98-435b-83a2-b28eb77292eb.png)
 
 ## made_cartoonize
